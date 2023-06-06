@@ -27,7 +27,7 @@ This API is made to post, get, delete, and put students into a SQL data base. It
 #### Put students
 
 ```http
-  POST /api/v1/{studentId}
+  PUT /api/v1/{studentId}
 ```
 
 | Parameter | Type     | Description                       |
